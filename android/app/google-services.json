@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "850986062811",
+    "firebase_url": "https://olx-flutter-d47f0-default-rtdb.firebaseio.com",
+    "project_id": "olx-flutter-d47f0",
+    "storage_bucket": "olx-flutter-d47f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850986062811:android:c9731ea1467bffe7898dfe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2wdoZj6cG9G3_-_MpRObcujc0F0WP0zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850986062811:android:db595a70abe00d83898dfe",
+        "android_client_info": {
+          "package_name": "com.example.olx_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2wdoZj6cG9G3_-_MpRObcujc0F0WP0zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
