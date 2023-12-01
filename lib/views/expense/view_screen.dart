@@ -39,6 +39,7 @@ class _ViewExpensePageState extends State<ViewExpensePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Home'),
+        centerTitle: true,
       ),
       body: Column(
         children: <Widget>[

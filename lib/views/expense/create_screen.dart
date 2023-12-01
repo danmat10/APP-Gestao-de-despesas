@@ -56,7 +56,8 @@ class _CreateExpensePageState extends State<CreateExpensePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Cadastro de Movimentação'),
+        title: Text('Adicionar Movimentação'),
+        centerTitle: true,
       ),
       body: SingleChildScrollView(
         child: Padding(
