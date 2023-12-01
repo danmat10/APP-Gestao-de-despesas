@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_8/models/user_model.dart';
 import 'package:flutter_application_8/services/user_service.dart';
 import 'package:flutter_application_8/views/auth/signup_screen.dart';
-import 'package:flutter_application_8/views/home/home_screen.dart';
+import 'package:flutter_application_8/views/home/home.dart';
 
 class LoginScreen extends StatefulWidget {
   @override

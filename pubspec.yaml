@@ -35,6 +35,8 @@ dependencies:
   firebase_auth:
   cloud_firestore:
   intl:
+  fl_chart: ^0.35.0
+  pie_chart: ^5.4.0
 
 
 
