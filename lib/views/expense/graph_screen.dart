@@ -109,7 +109,7 @@ class _GraphPageState extends State<GraphPage> {
                       ),
                       chartValuesOptions: ChartValuesOptions(
                           showChartValues: true,
-                          showChartValuesInPercentage: false,
+                          showChartValuesInPercentage: true,
                           showChartValuesOutside: true),
                     ),
                   ],
